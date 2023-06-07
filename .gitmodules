@@ -1,0 +1,33 @@
+[submodule "sum-test"]
+	path = sum-test
+	url = https://github.com/sns-23/add-test
+[submodule "add-nbo"]
+	path = add-nbo
+	url = https://github.com/sns-23/add-nbo
+[submodule "osi-and-tcp"]
+	path = osi-and-tcp
+	url = https://github.com/sns-23/osi-and-tcp
+[submodule "pcap-test"]
+	path = pcap-test
+	url = https://github.com/sns-23/pcap-test
+[submodule "send-arp"]
+	path = send-arp
+	url = https://github.com/sns-23/send-arp
+[submodule "netfilter-test"]
+	path = netfilter-test
+	url = https://github.com/sns-23/netfilter-test
+[submodule "1m-block"]
+	path = 1m-block
+	url = https://github.com/sns-23/1m-block
+[submodule "suricata-rule"]
+	path = suricata-rule
+	url = https://github.com/sns-23/suricata-rule
+[submodule "echo-client-server"]
+	path = echo-client-server
+	url = https://github.com/sns-23/echo-client-server
+[submodule "tcp-block"]
+	path = tcp-block
+	url = https://github.com/sns-23/tcp-block
+[submodule "airodump"]
+	path = airodump
+	url = https://github.com/sns-23/airodump
