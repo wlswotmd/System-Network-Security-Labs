@@ -31,3 +31,9 @@
 [submodule "airodump"]
 	path = airodump
 	url = https://github.com/sns-23/airodump
+[submodule "arp-spoof"]
+	path = arp-spoof
+	url = https://github.com/sns-23/arp-spoof
+[submodule "deauth-attack"]
+	path = deauth-attack
+	url = https://github.com/sns-23/deauth-attack
